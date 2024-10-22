@@ -1,4 +1,4 @@
-package com.springboot_api.model;
+package com.springboot.api.model;
 
 import lombok.Data;
 

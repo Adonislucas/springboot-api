@@ -1,7 +1,7 @@
-package com.springboot_api.controller;
+package com.springboot.api.controller;
 
-import com.springboot_api.model.Usuario;
-import com.springboot_api.repository.UsuarioRepositorio;
+import com.springboot.api.model.Usuario;
+import com.springboot.api.repository.UsuarioRepositorio;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
