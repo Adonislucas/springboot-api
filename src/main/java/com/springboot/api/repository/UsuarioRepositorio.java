@@ -1,6 +1,6 @@
-package com.springboot_api.repository;
+package com.springboot.api.repository;
 
-import com.springboot_api.model.Usuario;
+import com.springboot.api.model.Usuario;
 import org.springframework.stereotype.Repository;
 
 import java.util.ArrayList;
